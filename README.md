@@ -1,5 +1,4 @@
-## Description
-The Terraform code you provided defines the infrastructure for multiple virtual machines.
+
 
 ## Configuration Details
 ### Provider Configuration
